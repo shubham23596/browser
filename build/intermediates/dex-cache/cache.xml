@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.6.0/48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8/butterknife-annotations-8.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/butterknife-annotations-8.6.0_740dc26abecc3b0fa1551d0a3f26156a523e409d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/4f589bc54629900529c6038ada0d91defe7677f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0b020ced232b8c030ad8ffef70147dfd14025378">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_715ca3a8f40bb85946e237709f0c711046921d90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/5c37952ef6942cc47100d15b58c82f8013e80d61/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_ec92e3be87fad519204b8fc02dc8600b0bf3b119/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/26a12bc25a227ba8db53e8aaa02bb9270d05e954/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_0e54954731875cbc923cd25fed9b5628741edece/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/3eb4e4c52fff934b559e8568feb1ac0de4766ca6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_8db88b169e496b2d843bce3e94b44f6f83ff0dad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.2/33ee82e324f4b1e40167f3dc5e01234a1c5cab61/jsoup-1.10.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/jsoup-1.10.2_eec47deabce84addf634f0ef949b16ab7a7e4da6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.3/e51ebc59da5103a2052859e89682c7f9c3456298/kotlin-stdlib-1.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e51ebc59da5103a2052859e89682c7f9c3456298">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/kotlin-stdlib-1.1.3_3854efaa1d0538c240826979522f02503d96e79c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/a68b00b6b13b59fdef67fa6354969aa8976bb415/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_650ceb42e3e38ca747fc85627dcad2fcaaa37188/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/db2f4fd8bca15dc04646630c140a0e59cf747df0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a2c9faa3089f4bc0afa0a33aea9e144b7626124e">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_078580627af46e6caff51e0279b26314a8f61cf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.5.1/77e5213b6ac5b323616a7bd283763bd60c0b3f6f/leakcanary-analyzer-1.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="77e5213b6ac5b323616a7bd283763bd60c0b3f6f">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/leakcanary-analyzer-1.5.1_4eeef57f66b9fb6f6b6c05b6811071df8b6a26bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.5.1/3d719b7e20a11415d409e6c29a34a643c560fc6f/leakcanary-watcher-1.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3d719b7e20a11415d409e6c29a34a643c560fc6f">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/leakcanary-watcher-1.5.1_1e43515e40cec17ae2a9ebd3d498613d718a459d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/support-annotations-25.4.0_39343e657e75875b8bd97f2bbd60c5643a181a6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.11/95037eaee68aa48021511972e9db9ba29916e1c9/dagger-2.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95037eaee68aa48021511972e9db9ba29916e1c9">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/dagger-2.11_e6a2090f10d504690c0c67fb3512f4be971a0748/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/50ac273614a5a7ccb0cb21d80fe0ab85e0fb28ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="559e1a0c338130aa76acd47266152350c23dc822">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_a4a0626ef656d9062b95a4d6030371d75c3cf3f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/305cb3965c743a1a27c48bad14e5d3da0aebd0d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_64414611b1cf7a37b252f561d24a96328a4bb9bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/4c758a86761227c9af7ee157496b272a5198c40f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_b1d9b1cfc2aa43ae03304529f5286b432dd71e29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/afc4c0a6f94ab5b61a54bfa61c3cb4651a41cf51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0488bc0911ea5670cab19e6884ce250e08c2fae6">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_26e72fda304462cbe4a32fb868f7fc3c5de04f2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/c064354e59d401f6d440c4c1dc1ab9aabacb895a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4fbaa84da04e25bb7812592814026101d20dbc91">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_462e6343c8428ebe51cd4f319e097de86e8c018a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/db3f8981547aed72b1805881fd590f4af39c3811/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="804d5a70dbe673a16b01e38044fb7fda433e1b55">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_d1549d60928be188b7c03fa3ddc3db262afcd1eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/okio-1.13.0_d5e3e8c18f53a180acdfac9b5981786fd0646cdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/50ac273614a5a7ccb0cb21d80fe0ab85e0fb28ca/output/jars/libs/mstreaming.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f73135518008af1df0ba568cb949f3de46d13d3f">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/mstreaming_ca50d8f5c8d3e2fdc643e63286c54c602469d15c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/12565b0892e767e60239774a7235bc8bc1fb39ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_c3272106fea8dc0900c3749522b7940bd4938714/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.3/640a438d2d415c056ca6a673ac26b183b044e160/haha-2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/haha-2.0.3_33cbc01fb9c26c7b343cf4a20608704571b2ffc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/incremental-runtime-classes/lightningLite/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10000/instant-run_b3be16625f88d0fcb7e33293506014964def5454/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/897448f55cb89849cd0f63de36be83b802fa7105/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="032c65a3b537f89d5510a7cb18a0404c7f65c816">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_6f1c2c7477516849367e81ea4a6cae6278832d35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/49fcb9ad182e4426f4ea6a98d3df3d5c84acfc62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_be3c8dea8a27296235028c068c4b4e964ddbf06a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/javax.inject-1_80d4155b9c2963653eecda19646e8b9815851c96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/info.guardianproject.netcipher/netcipher/2.0.0-alpha1/ae8a4b71384a385d70d0f461de0a3f1ff574993a/netcipher-2.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ae8a4b71384a385d70d0f461de0a3f1ff574993a">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/netcipher-2.0.0-alpha1_afcaa486d43bad94208089af109329f585ef1924/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/56327a5e6b087dfc69e05a6cb74bef7cc0514cb2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_98447d9a00827aef83a0eaf86a2039f48a301565/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/d04277b4cf0eb65e7c8a56f9e9562c4607b230de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_cf3ea2d46f5fa0b7891480b193d09ba6e8a344b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/annotations-13.0_83cb2a344c83c176d7f01a0292d7bdef56a38e8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/okhttp-3.8.0_1962685d49dc509ffa2e56b1997822d365639859/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/db32a130e9e513e5e47c351268d510ed2a36d124/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_ac010b49fd9f61654f126342b24ec6932ed97e1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/incremental-classes/lightningLite/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="108347e2a318e99d7a7c18373234fe3bcfb7a068">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10000/instant-run-bootstrap_a168e71ccaba07fd7eb9015b49dad7f2ebb825bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/0a77c10be6902299fbe9562b4975ed9a994c05f1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_f017453008836b64b975928645ef4e61e76c871b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/c5db79b2fad77bda9564a7b0c3c394aab095e73a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="40a6b8f05124eb9e6012e18b80a6dbd13440e283">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/classes_605533744eb824aa8c2a91f9f243c4e571bcd5e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/info.guardianproject.netcipher/netcipher-webkit/2.0.0-alpha1/4ce5fe84a2c159056426d323aae675384428048a/netcipher-webkit-2.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4ce5fe84a2c159056426d323aae675384428048a">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/netcipher-webkit-2.0.0-alpha1_1269ff0b5b6bd6270e548507040b387c5ca738d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/50ac273614a5a7ccb0cb21d80fe0ab85e0fb28ca/output/jars/libs/i2p.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="868f13ec421e11bb79eccc3cfaa24400bf57ef7e">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/i2p_d3ca72c29b5cc204893d9879263a9b410c312451/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.3/ca54720041043baefa0946f7ab2326934cfefd7f/kotlin-stdlib-jre7-1.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ca54720041043baefa0946f7ab2326934cfefd7f">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/kotlin-stdlib-jre7-1.1.3_7354b8f409a975aca431a94d993297e87a6a7169/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.android/build-cache/50ac273614a5a7ccb0cb21d80fe0ab85e0fb28ca/output/jars/libs/streaming.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcc55333f87ace83376e7490af57f61fd8c02aed">
+        <dex dex="/Users/shubhamjain/Downloads/Lightning-Browser-dev/app/build/intermediates/transforms/dex/lightningLite/debug/folders/1000/10/streaming_6f6c861fcbd4e3ea24daf5786dbc2c07b6de4f1e/classes.dex" />
+    </item>
+
+</items>
